@@ -1,0 +1,26 @@
+{
+  "countdown": {
+    "enabled": false,
+    "title": "⚡ GRAN APERTURA EDSURVIVAL ⚡",
+    "subtitle": "El servidor abrirá sus puertas en:",
+    "targetDate": "2026-10-25T20:00:00.000Z"
+  },
+  "news": [
+    {
+      "id": "1",
+      "title": "¡Bienvenidos a EDSURVIVAL Extreme!",
+      "content": "### Servidor Oficial de la Serie\n\n¡Bienvenidos a todos los supervivientes!\n\n* **Versión:** Minecraft 1.20.1 Forge\n* **Discord:** Únete para enterarte de las reglas y novedades.\n\n¡Haz clic en **JUGAR** para verificar tus archivos e iniciar la aventura!",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "image": {
+        "url": "/src/static/images/news.webp"
+      },
+      "author": {
+        "username": "Equipo EDSURVIVAL"
+      },
+      "tags": [
+        { "name": "OFICIAL", "color": "#ffd200" },
+        { "name": "SERIE", "color": "#e51d24" }
+      ]
+    }
+  ]
+}
