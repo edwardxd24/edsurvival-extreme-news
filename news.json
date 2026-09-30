@@ -7,6 +7,22 @@
   },
   "news": [
     {
+      "id": "2",
+      "title": "☣️ ¡Alerta Biológica: Nuevos Zombies Mutantes!",
+      "content": "### ¡La radiación ha mutado a los infectados!\n\nHemos detectado nuevas variantes de criaturas en el mapa:\n\n* **Zombie Corredor:** Se mueve al doble de velocidad en la noche.\n* **Zombie Tóxico:** Explota al morir liberando una nube de veneno radiactivo.\n* **Tanque Acorazado:** Posee armadura de placas pesadas.\n\n*¡Equípate bien antes de salir de tu refugio!*",
+      "publishedAt": "2026-09-30T05:00:00.000Z",
+      "image": {
+        "url": "/src/static/images/news.webp"
+      },
+      "author": {
+        "username": "Equipo EDSURVIVAL"
+      },
+      "tags": [
+        { "name": "PELIGRO", "color": "#e51d24" },
+        { "name": "UPDATE", "color": "#ff9800" }
+      ]
+    },
+    {
       "id": "1",
       "title": "¡Bienvenidos a EDSURVIVAL Extreme!",
       "content": "### Servidor Oficial de la Serie\n\n¡Bienvenidos a todos los supervivientes!\n\n* **Versión:** Minecraft 1.20.1 Forge\n* **Discord:** Únete para enterarte de las reglas y novedades.\n\n¡Haz clic en **JUGAR** para verificar tus archivos e iniciar la aventura!",
